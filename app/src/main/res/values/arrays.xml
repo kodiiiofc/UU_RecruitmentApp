@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="occupations">
+        <item>Директор</item>
+        <item>Бухгалтер</item>
+        <item>Инженер</item>
+        <item>Мененджер</item>
+        <item>Кассир</item>
+        </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Подбор персонала</string>
+    <string name="menu_exit">Выход</string>
+    <string name="et_first_name">Введите имя</string>
+    <string name="et_last_name">Введите фамилию</string>
+    <string name="et_age">Введите возраст</string>
+    <string name="tv_occupation">Выберите должность</string>
+    <string name="btn_submit">Сохранить</string>
+    <string name="menu_occupation">Должность</string>
+</resources>
